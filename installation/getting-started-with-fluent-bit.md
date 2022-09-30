@@ -8,7 +8,7 @@ description: The following serves as a guide on how to install/deploy/upgrade Fl
 
 | Deployment Type   | Instructions                                       |
 | ----------------- | -------------------------------------------------- |
-| Kubernetes        | [Deploy on Kubernetes](kubernetes.md#installation) |
+| Kubernetes        | [Deploy on Kubernetes](kubernetes.md)              |
 | Docker            | [Deploy with Docker](docker.md)                    |
 | Containers on AWS | [Deploy on Containers on AWS](aws-container.md)    |
 
@@ -16,27 +16,27 @@ description: The following serves as a guide on how to install/deploy/upgrade Fl
 
 | Operating System       | Installation Instructions                                                                                                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CentOS / Red Hat       | [CentOS 7](linux/redhat-centos.md#install-on-redhat-centos), [CentOS 8](linux/redhat-centos.md#install-on-redhat-centos)                                                                                |
-| Ubuntu                 | [Ubuntu 16.04 LTS](linux/ubuntu.md#ubuntu-16-04-lts-xenial-xerus), [Ubuntu 18.04 LTS](linux/ubuntu.md#ubuntu-18-04-lts-bionic-beaver), [Ubuntu 20.04 LTS](linux/ubuntu.md#ubuntu-20-04-lts-focal-fossa) |
-| Debian                 | [Debian 9](linux/debian.md#debian-9-stretch), [Debian 10](linux/debian.md#debian-10-buster)                                                                                                             |
-| Amazon Linux           | [Amazon Linux 2](linux/amazon-linux.md#install-on-amazon-linux-2)                                                                                                                                       |
-| Raspbian / Raspberry Pi | [Raspbian 10](linux/raspbian-raspberry-pi.md#raspbian-10-buster)                                                                                                                                        |
-| Yocto / Embedded Linux | [Yocto / Embedded Linux](yocto-embedded-linux.md#fluent-bit-and-other-architectures)                                                                                                                    |
+| CentOS / Red Hat       | [CentOS 7](linux/redhat-centos.md), [CentOS 8](linux/redhat-centos.md)                                                                                                                                  |
+| Ubuntu                 | [Ubuntu 16.04 LTS](linux/ubuntu.md), [Ubuntu 18.04 LTS](linux/ubuntu.md), [Ubuntu 20.04 LTS](linux/ubuntu.md)                                                                                           |
+| Debian                 | [Debian 9](linux/debian.md), [Debian 10](linux/debian.md)                                                                                                                                               |
+| Amazon Linux           | [Amazon Linux 2](linux/amazon-linux.md)                                                                                                                                                                 |
+| Raspbian / Raspberry Pi | [Raspbian 10](linux/raspbian-raspberry-pi.md)                                                                                                                                                          |
+| Yocto / Embedded Linux | [Yocto / Embedded Linux](yocto-embedded-linux.md)                                                                                                                                                       |
 
 ## Install on Windows (Packages)
 
 | Operating System    | Installation Instructions                                                                                                    |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Windows Server 2019 | [Windows Server EXE](windows.md#installing-from-exe-installer), [Windows Server ZIP](windows.md#installing-from-zip-archive) |
-| Windows 10 2019.03  | [Windows EXE](windows.md#installing-from-exe-installer), [Windows ZIP](windows.md#installing-from-zip-archive)               |
+| Windows Server 2019 | [Windows Server EXE](windows.md), [Windows Server ZIP](windows.md) |
+| Windows 10 2019.03  | [Windows EXE](windows.md), [Windows ZIP](windows.md)               |
 
 ## Compile from Source (Linux, Windows, FreeBSD, MacOS)
 
 | Operating System | Installation Instructions                                   |
 | ---------------- | ----------------------------------------------------------- |
 | Linux, FreeBSD   | [Compile from source](sources/build-and-install.md)         |
-| MacOS            | [Compile from source](macos.md#get-the-source-and-build-it) |
-| Windows          | [Compile from Source](windows.md#compile-from-source)       |
+| MacOS            | [Compile from source](macos.md)                             |
+| Windows          | [Compile from Source](windows.md)                           |
 
 ## Sandbox Environment
 
