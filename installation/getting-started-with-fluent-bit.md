@@ -17,7 +17,11 @@ description: The following serves as a guide on how to install/deploy/upgrade Fl
 | Operating System       | Installation Instructions                                                                                                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CentOS / Red Hat       | [CentOS 7](linux/redhat-centos.md), [CentOS 8](linux/redhat-centos.md)                                                                                                                                  |
+<<<<<<< HEAD
 | Ubuntu                 | [Ubuntu 16.04 LTS](linux/ubuntu.md), [Ubuntu 18.04 LTS](linux/ubuntu.md), [Ubuntu 20.04 LTS](linux/ubuntu.md), [Ubuntu 20.04 LTS](linux/ubuntu.md)                                                      |
+=======
+| Ubuntu                 | [Ubuntu 16.04 LTS](linux/ubuntu.md), [Ubuntu 18.04 LTS](linux/ubuntu.md), [Ubuntu 20.04 LTS](linux/ubuntu.md)                                                                                           |
+>>>>>>> 0756f284634f3bf6470bcb395994abd8b9415f17
 | Debian                 | [Debian 9](linux/debian.md), [Debian 10](linux/debian.md)                                                                                                                                               |
 | Amazon Linux           | [Amazon Linux 2](linux/amazon-linux.md)                                                                                                                                                                 |
 | Raspbian / Raspberry Pi | [Raspbian 10](linux/raspbian-raspberry-pi.md)                                                                                                                                                          |
